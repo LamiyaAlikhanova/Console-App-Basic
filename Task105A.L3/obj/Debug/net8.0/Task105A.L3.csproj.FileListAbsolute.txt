@@ -1,0 +1,14 @@
+C:\Users\kh53\source\repos\Task105A.L3\bin\Debug\net8.0\Task105A.L3.exe
+C:\Users\kh53\source\repos\Task105A.L3\bin\Debug\net8.0\Task105A.L3.deps.json
+C:\Users\kh53\source\repos\Task105A.L3\bin\Debug\net8.0\Task105A.L3.runtimeconfig.json
+C:\Users\kh53\source\repos\Task105A.L3\bin\Debug\net8.0\Task105A.L3.dll
+C:\Users\kh53\source\repos\Task105A.L3\bin\Debug\net8.0\Task105A.L3.pdb
+C:\Users\kh53\source\repos\Task105A.L3\obj\Debug\net8.0\Task105A.L3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kh53\source\repos\Task105A.L3\obj\Debug\net8.0\Task105A.L3.AssemblyInfoInputs.cache
+C:\Users\kh53\source\repos\Task105A.L3\obj\Debug\net8.0\Task105A.L3.AssemblyInfo.cs
+C:\Users\kh53\source\repos\Task105A.L3\obj\Debug\net8.0\Task105A.L3.csproj.CoreCompileInputs.cache
+C:\Users\kh53\source\repos\Task105A.L3\obj\Debug\net8.0\Task105A.L3.dll
+C:\Users\kh53\source\repos\Task105A.L3\obj\Debug\net8.0\refint\Task105A.L3.dll
+C:\Users\kh53\source\repos\Task105A.L3\obj\Debug\net8.0\Task105A.L3.pdb
+C:\Users\kh53\source\repos\Task105A.L3\obj\Debug\net8.0\Task105A.L3.genruntimeconfig.cache
+C:\Users\kh53\source\repos\Task105A.L3\obj\Debug\net8.0\ref\Task105A.L3.dll
